@@ -1,1 +1,1 @@
-Mastermind Game
+Code Breaker is a logic-based mini-game where the player tries to guess a secret combination of 4 colours through progressive attempts. After each guess, the game provides feedback to guide the player toward the correct answer. The challenge is to crack the code in as few attempts as possible!
